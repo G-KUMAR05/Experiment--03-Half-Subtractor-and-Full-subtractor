@@ -1,6 +1,6 @@
 ```
 Name : Rajalakshmi R
-Class : 212223110037
+Reg No : 23012615
 ```
 
 # Exp-04 Implementation of Half subtractor and Full subtractor circuit
